@@ -1,2 +1,5 @@
 php
 phpinfo();
+php
+phpinfo();
+
